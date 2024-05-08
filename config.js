@@ -5,7 +5,7 @@ import fs from 'fs'
 
 global.owner = [['5511949341626', 'Sml', true], ['5511987729332', 'Saga', true], ['']] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "554899398768" //put your bot number here
 
 global.mods = ['5511949341626', '32460248586']
 global.prems = ['5511949341626', '32460248586', '919398758484']
