@@ -5,11 +5,11 @@ import fs from 'fs'
 
 global.owner = [['5511949341626', 'Sml', true], ['5511987729332', 'Saga', true], ['']] //Number of owners
 
-//global.pairingNumber = "554899398768" //put your bot number here
+//global.pairingNumber = "" //put your bot number here
 
-global.mods = ['5511949341626', '32460248586']
-global.prems = ['5511949341626', '32460248586', '919398758484']
-global.allowed = ['5511949341626', '32460248586', '19152999993']
+global.mods = ['5511949341626', '554899398768']
+global.prems = ['5511949341626', '554899398768', '919398758484']
+global.allowed = ['5511949341626', '554899398768', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
